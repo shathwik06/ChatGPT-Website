@@ -26,9 +26,6 @@ No JavaScript required (static template)
 
 🚀 Quick Start
 
-bash
-Copy
-git clone https://github.com/yourusername/chatgpt-html-css-clone.git
 # Open index.html in any browser
 🌐 Live Demo
 View static demo
